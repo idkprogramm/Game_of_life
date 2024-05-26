@@ -22,4 +22,4 @@ python3 main.py
 
 ## Пример работы
 
-![](gif%2FZZwy.gif)
+![](ZZwy.gif)
